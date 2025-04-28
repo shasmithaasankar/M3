@@ -151,9 +151,12 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
  Print the updated array after replacements.
 
 ## Program:
+![image](https://github.com/user-attachments/assets/74de431e-2092-45e2-8489-a476d5adef75)
+
 
 ## Output:
- 
+ ![image](https://github.com/user-attachments/assets/157289c0-5d4c-4d49-9a65-aa05b44acd8d)
+
 
 
 ## Result:
